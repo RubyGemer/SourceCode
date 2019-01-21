@@ -1,0 +1,18 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#examples {
+  margin: 20px;
+}
+
+.react-switch {
+  vertical-align: middle;
+  margin-left: 4px;
+}
+
+pre {
+  padding: 0 10px;
+  margin: 0;
+  background: #eee;
+}
